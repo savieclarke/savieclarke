@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savannah Clarke</h1>
+<h1 align="center">Hi! I'm Savannah Clarke</h1>
 <h3 align="center">A Full Stack Developer in Atlanta, Georgia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savieclarke" alt="savieclarke" /></a> </p>
